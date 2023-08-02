@@ -4,7 +4,8 @@
 	"description": "FCC Boilerplate Package modified by author.",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example":  "1.1.0 "
 	},
 	"keywords": [ "freecodecamp", "fcc", "npm" ],
 	"license": "MIT",
